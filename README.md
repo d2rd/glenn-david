@@ -2,12 +2,12 @@
 {: style="color:gray; font-size: 80%; text-align: center;"}
 <p style="text-align: center;">
   Glenn-David Daniel's professional site
-
+</p>
   ## Welcome to Glenn-David Daniel's Portfolio Pages
   ### Silicon Valley Experience + the Babson MBA 
   ### = 
   ### A Capable Instructor for Entrepreneurship, Startups and Real Estate courses.
-</p>
+
 
 blah blah blah
 
