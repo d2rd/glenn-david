@@ -1,10 +1,12 @@
 # glenn-david
-Glenn-David Daniel's professional site
+<p style="text-align: center;">
+  Glenn-David Daniel's professional site
 
-## Welcome to Glenn-David Daniel's Portfolio Pages
-### Silicon Valley Experience + the Babson MBA 
-### = 
-### A Capable Instructor for Entrepreneurship, Startups and Real Estate courses.
+  ## Welcome to Glenn-David Daniel's Portfolio Pages
+  ### Silicon Valley Experience + the Babson MBA 
+  ### = 
+  ### A Capable Instructor for Entrepreneurship, Startups and Real Estate courses.
+</p>
 
 blah blah blah
 
