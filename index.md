@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Glenn-David Daniel's Portfolio Pages
 
-You can use the [editor on GitHub](https://github.com/d2rd/glenn-david/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Silicon Valley Experience + the Babson MBA = A Capable Instructor in Entrepreneurship, Startups and Real Estate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+blah blah blah
 
-### Markdown
+### 3 '#'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+blah blah blah
 
 ```markdown
 Syntax highlighted code block
