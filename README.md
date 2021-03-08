@@ -1,5 +1,5 @@
-# glenn-david
-{: style="color:gray; font-size: 80%; text-align: center;"}
+# :-:glenn-david daniel
+
 <div style="text-align: center;">
 <p style="text-align: center;">
   Glenn-David Daniel's professional site
