@@ -22,15 +22,20 @@ SUMMARY
 ### 510.485.3403 | ddaniel94605@gmail.com
 
 ---
-### Header 3
+## Work Portfolio
+
+<!-- Links -->
+
+[Lecture Overviews](https://d2rd.github.io/glenn-david/)
+
+[Business Analysis](https://d2rd.github.io/glenn-david/)
+
+[Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)
 
 ---
 
-<!-- Links -->
-[Work Portfolio](https://d2rd.github.io/glenn-david/)
-
-## After Hours ##
+## After Hours
 [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
-Favorite photos
+Favorite photos I've taken.
 
 [My Musical Life](https://d2rd.github.io/glenn-david/) Video clips in performance
