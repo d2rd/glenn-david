@@ -1,12 +1,12 @@
 # glenn-david daniel
 
-## Silicon Valley Experience 
+### Silicon Valley Experience 
 
-## + the Babson MBA 
+### + the Babson MBA 
 
-## = a capable Entrepreneurship, Startups and Real Estate instructor
+### = a capable instructor in Entrepreneurship, Startups and Real Estate
 
-SUMMARY
+## SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
 *	Results-driven hands-on senior manager with 17+ years of experience at startup and Fortune 500 companies.  
 *	Broad experience with the cloud and mobile computing, Real Estate and Telecommunications sectors.
