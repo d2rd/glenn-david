@@ -17,11 +17,13 @@ SUMMARY
 *	User-focused, highly intuitive, and inquisitive “voice of the customer” who listens, asks the right questions and builds consensus among stakeholders.
 
 ---
+
 ## CONTACT
-### Glenn-David Daniel
-### Hands-on Technology Professional
-### 510.485.3403 | ddaniel94605@gmail.com
+#### Glenn-David Daniel
+#### Hands-on Technology Professional
+#### 510.485.3403 | ddaniel94605@gmail.com
 ---
+
 ## DETAILS
 [Professional Overview](https://d2rd.github.io/glenn-david/)
 
@@ -30,8 +32,10 @@ SUMMARY
 [CV](https://d2rd.github.io/glenn-david/)
 
 [Technologies](https://d2rd.github.io/glenn-david/)
+
 ---
-## Work Portfolio
+
+## WORK PORTFOLIO
 
 <!-- Links -->
 
@@ -43,7 +47,7 @@ SUMMARY
 
 ---
 
-## After Hours
+## AFTER HOURS
 [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
 Favorite photos I've taken.
 
