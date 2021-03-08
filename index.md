@@ -4,7 +4,7 @@
 
 ## + the Babson MBA 
 
-## = a capable instructor in Entrepreneurship, Startups and Real Estate
+## = a capable Entrepreneurship, Startups and Real Estate instructor
 
 SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
