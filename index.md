@@ -45,6 +45,10 @@ SUMMARY
 
 [Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)
 
+[Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")
+
+
+
 ---
 
 ## AFTER HOURS
