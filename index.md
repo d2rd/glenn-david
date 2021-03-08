@@ -27,7 +27,7 @@
 ## DETAILS
 [Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
 
-[CV](https://d2rd.github.io/glenn-david/)
+[Curriculm Vitae](https://d2rd.github.io/glenn-david/)
 
 [Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
 
