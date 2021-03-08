@@ -1,6 +1,6 @@
 # glenn-david daniel
 
-### Silicon Valley Experience 
+### Silicon Valley experience 
 
 ### + the Babson MBA 
 
