@@ -1,8 +1,8 @@
 ## glenn-david daniel
 
 ## Silicon Valley Experience + the Babson MBA 
-= 
-A capable instructor in Entrepreneurship, Startups and Real Estate
+## = 
+## A capable instructor in Entrepreneurship, Startups and Real Estate
 
 blah blah blah
 # Glenn-David Daniel
