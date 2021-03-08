@@ -1,4 +1,4 @@
-## glenn-david daniel
+# glenn-david daniel
 
 ## Silicon Valley Experience + the Babson MBA 
 
@@ -6,9 +6,19 @@
 
 ## A capable instructor in Entrepreneurship, Startups and Real Estate
 
-blah blah blah
-# Glenn-David Daniel
-## Hands-on Technology Professional
+SUMMARY
+*	MBA in Entrepreneurship (Babson College 2020).
+*	Results-driven hands-on senior manager with 17+ years of experience at startup and Fortune 500 companies.  
+*	Broad experience with the cloud and mobile computing, Real Estate and Telecommunications sectors.
+*	Practical training in full stack web application design and development using React, JavaScript, NodeJS.
+*	Familiar with the practical application of Artificial Intelligence and Machine Learning in business operations.
+*	Adept at distilling and visualizing data using R, Python and Tableau to report customer research results.
+●	Superior oral and written communicator accomplished at working with a variety of stakeholders. 
+●	User-focused, highly intuitive, and inquisitive “voice of the customer” who listens, asks the right questions and builds consensus among stakeholders.
+
+
+### Glenn-David Daniel
+### Hands-on Technology Professional
 ### 510.485.3403 | ddaniel94605@gmail.com
 
 ---
