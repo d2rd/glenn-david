@@ -1,19 +1,21 @@
-## Welcome to Glenn-David Daniel's Portfolio Pages
+## glenn-david daniel
 
-## Silicon Valley Experience + the Babson MBA = A Capable Instructor in Entrepreneurship, Startups and Real Estate
-
-blah blah blah
-
-### 3 '#'
+## Silicon Valley Experience + the Babson MBA 
+= 
+A capable instructor in Entrepreneurship, Startups and Real Estate
 
 blah blah blah
+# Glenn-David Daniel
+## Hands-on Technology Professional
+### 510.485.3403 | ddaniel94605@gmail.com
+### Header 3
+
+Plain text blah blah blah
 
 ```markdown
 Syntax highlighted code block
 
-# Glenn-David Daniel
-## Hands-on Technology Professional
-### 510.485.3403 | ddaniel94605@gmail.com
+
 
 - Bulleted
 - List
