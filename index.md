@@ -31,7 +31,7 @@
 
 [CV](https://d2rd.github.io/glenn-david/)
 
-[Technologies](https://d2rd.github.io/glenn-david/)
+[Technologies List](https://d2rd.github.io/glenn-david/)
 
 ---
 
