@@ -13,8 +13,8 @@ SUMMARY
 *	Practical training in full stack web application design and development using React, JavaScript, NodeJS.
 *	Familiar with the practical application of Artificial Intelligence and Machine Learning in business operations.
 *	Adept at distilling and visualizing data using R, Python and Tableau to report customer research results.
-●	Superior oral and written communicator accomplished at working with a variety of stakeholders. 
-●	User-focused, highly intuitive, and inquisitive “voice of the customer” who listens, asks the right questions and builds consensus among stakeholders.
+*	Superior oral and written communicator accomplished at working with a variety of stakeholders. 
+*	User-focused, highly intuitive, and inquisitive “voice of the customer” who listens, asks the right questions and builds consensus among stakeholders.
 
 
 ### Glenn-David Daniel
