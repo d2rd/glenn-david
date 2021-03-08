@@ -1,10 +1,10 @@
 # glenn-david daniel
 
-## Silicon Valley Experience + the Babson MBA 
+## Silicon Valley Experience 
 
-## = 
+## + the Babson MBA 
 
-## A capable instructor in Entrepreneurship, Startups and Real Estate
+## = a capable instructor in Entrepreneurship, Startups and Real Estate
 
 SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
@@ -16,11 +16,20 @@ SUMMARY
 *	Superior oral and written communicator accomplished at working with a variety of stakeholders. 
 *	User-focused, highly intuitive, and inquisitive “voice of the customer” who listens, asks the right questions and builds consensus among stakeholders.
 
-
+---
+## CONTACT
 ### Glenn-David Daniel
 ### Hands-on Technology Professional
 ### 510.485.3403 | ddaniel94605@gmail.com
+---
+## DETAILS
+[Professional Overview](https://d2rd.github.io/glenn-david/)
 
+[Detailed Resume](https://d2rd.github.io/glenn-david/)
+
+[CV](https://d2rd.github.io/glenn-david/)
+
+[Technologies](https://d2rd.github.io/glenn-david/)
 ---
 ## Work Portfolio
 
