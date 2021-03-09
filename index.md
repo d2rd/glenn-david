@@ -6,7 +6,7 @@
 
 ### + the Babson MBA 
 
-### = a capable instructor in Entrepreneurship, Startups & Real Estate
+### = a capable instructor in Entrepreneurship, Startups, and Real Estate
 
 ## SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
@@ -23,7 +23,7 @@
 ## CONTACT
 #### Glenn-David Daniel
 #### Hands-on Technology Professional
-#### 510.485.3403 | ddaniel94605@gmail.com
+#### 510.485.3403 | ddaniel94605@gmail.com | linkedin.com/in/gddaniel
 ---
 
 ## DETAILS
