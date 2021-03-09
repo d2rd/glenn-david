@@ -1,5 +1,7 @@
 # glenn-david daniel
 
+![Headshot](./DD-Bizhead_234x234.jpg "Glenn-David Daniel")
+
 ### Silicon Valley experience 
 
 ### + the Babson MBA 
