@@ -18,6 +18,7 @@
 *	Practical training in full stack web application design and development using React, JavaScript, NodeJS.
 *	Familiar with the practical application of Artificial Intelligence and Machine Learning in business operations.
 *	Adept at distilling and visualizing data using R, Python and Tableau to report customer research results.
+
 ---
 
 ## CONTACT
