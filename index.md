@@ -6,7 +6,7 @@
 
 ### + the Babson MBA 
 
-### = a capable instructor in Entrepreneurship, Startups, and Real Estate
+### = an innovative instructor in Entrepreneurship, Startups, and Real Estate
 
 ## SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
@@ -15,9 +15,9 @@
 *	Accomplished at lecturing to multiple levels and communicating to diverse audiences (C-level to end-user).
 *	Easily translates between academic, business, operational and technical languages.  
 *	Broad experience with the cloud and mobile computing, Real Estate and Telecommunications sectors.
-*	Practical training in full stack web application design and development using React, JavaScript, NodeJS.
-*	Familiar with the practical application of Artificial Intelligence and Machine Learning in business operations.
-*	Adept at distilling and visualizing data using R, Python and Tableau to report customer research results.
+*	Considerable training in full stack web application design and development using React, JavaScript, NodeJS.
+*	Solid understanding with the practical application of Artificial Intelligence and Machine Learning in business operations.
+*	Effective at using R, Python, Tableau and SAS data analysis and visualization.
 
 ---
 
