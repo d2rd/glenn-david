@@ -4,10 +4,10 @@
 <p style="text-align: center;">
   Glenn-David Daniel's professional site
 
-  ## Welcome to Glenn-David Daniel's Portfolio Pages
-  ### Silicon Valley Experience + the Babson MBA 
-  ### = 
-  ### An innovative instructor for Entrepreneurship, Startups and Real Estate courses.
+  ## Header 2
+  ### Header 3 
+  #### Header 4 
+  ##### Header 5
 </p>
 </div>
 
@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 # Glenn-David Daniel
 ## Hands-on Technology Professional
-### 510.485.3403 | ddaniel94605@gmail.com
+### 123.123.1234 | email address
 
 - Bulleted
 - List
