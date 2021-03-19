@@ -7,7 +7,7 @@
   ## Welcome to Glenn-David Daniel's Portfolio Pages
   ### Silicon Valley Experience + the Babson MBA 
   ### = 
-  ### A Capable Instructor for Entrepreneurship, Startups and Real Estate courses.
+  ### An innovative instructor for Entrepreneurship, Startups and Real Estate courses.
 </p>
 </div>
 
