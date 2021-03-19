@@ -10,7 +10,7 @@
 
 ## SUMMARY
 *	MBA in Entrepreneurship (Babson College 2020).
-*	Senior technology manager with 20+ years of experience in business, technology and real estate.
+*	Senior business technologist with 20+ years of experience in business, software product management and real estate.
 *	Excellent grasp of product development lifecycles, commercialization and software engineering.
 *	Accomplished at lecturing to multiple levels and communicating to diverse audiences (C-level to end-user).
 *	Easily translates between academic, business, operational and technical languages.  
