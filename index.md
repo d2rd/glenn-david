@@ -32,8 +32,6 @@
 
 [Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
 
-<!-- [Curriculm Vitae](https://d2rd.github.io/glenn-david/) -->
-
 [Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
 
 [Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT MANAGER v210101.docx)
@@ -41,6 +39,8 @@
 [Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech DETAILED v210101.docx)
 
 [Technologies List](https://d2rd.github.io/glenn-david/David Daniel Technology List v210324)
+
+<!-- [Curriculm Vitae](https://d2rd.github.io/glenn-david/) -->
 
 ---
 
