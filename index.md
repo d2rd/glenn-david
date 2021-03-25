@@ -31,6 +31,7 @@
 [Teaching Flyer](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_TEACH_Flyer_v210319.pdf)
 
 [Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
+
 [sample_list](https://dwrd.github.io/glenn-david/assets/work_samples/sample_list)
 
 ---
