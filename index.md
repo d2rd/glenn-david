@@ -51,12 +51,16 @@
 
 [Hubspot Inbound Marketing Certificate](https://d2rd.github.io/glenn-david/assets/GDDaniel_Inbound_Marketing_Certificate.pdf)
 
-## Lesson Plans and Syllabi
+### Lesson Plans and Syllabi
+[i2Biz Overview for Program Managers](https://d2rd.github.io/glenn-david/assets/i2Biz_Program_Overview_2014.pdf)
+
 [Sample Lesson Plan](https://d2rd.github.io/glenn-david/assets/Sample_Lesson_Plan_2014_Glenn-David_Daniel.pdf)
 
 [Lesson Segment](https://d2rd.github.io/glenn-david/assets/i2Biz_EDT 41_Recognizing Opportunities1.pdf)
 
 <!-- [Lecture Overviews](https://d2rd.github.io/glenn-david/) -->
+
+[Writing Sample 1](https://d2rd.github.io/glenn-david/)
 
 [Business Analysis](https://d2rd.github.io/glenn-david/)
 
@@ -64,7 +68,7 @@
 
 [Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")
 
-
+[Business Analysis - Financing Scenario](https://d2rd.github.io/glenn-david/assets/Paint-Pen Scenarios_Entrepreneurial_Finance.pdf)
 
 ---
 
