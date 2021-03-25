@@ -60,7 +60,7 @@
 
 <!-- [Lecture Overviews](https://d2rd.github.io/glenn-david/) -->
 
-[Writing Sample 1](https://d2rd.github.io/glenn-david/)
+[Writing Sample 1](https://d2rd.github.io/glenn-david/assets/Glenn-David Daniel_No Good Options_v200822.pdf)
 
 [Business Analysis](https://d2rd.github.io/glenn-david/)
 
