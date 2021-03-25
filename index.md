@@ -28,9 +28,11 @@
 ---
 
 ## DETAILS
+[Teaching Flyer](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_TEACH_Flyer_v210319.pdf)
+
 [Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
 
-[Curriculm Vitae](https://d2rd.github.io/glenn-david/)
+<!-- [Curriculm Vitae](https://d2rd.github.io/glenn-david/) -->
 
 [Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
 
