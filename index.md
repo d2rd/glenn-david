@@ -60,13 +60,15 @@
 
 <!-- [Lecture Overviews](https://d2rd.github.io/glenn-david/) -->
 
+---
+
 [Writing Sample 1](https://d2rd.github.io/glenn-david/assets/Glenn-David Daniel_No Good Options_v200822.pdf)
 
 [Business Analysis](https://d2rd.github.io/glenn-david/)
 
 [Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)
 
-[Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")
+<!-- [Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.") -->
 
 [Business Analysis - Financing Scenario](https://d2rd.github.io/glenn-david/assets/Paint-Pen Scenarios_Entrepreneurial_Finance.pdf)
 
