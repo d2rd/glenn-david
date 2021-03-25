@@ -38,7 +38,7 @@
 
 [Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech DETAILED v210101.docx)
 
-[Technologies List](https://d2rd.github.io/glenn-david/)
+[Technologies List](https://d2rd.github.io/glenn-david/David Daniel Technology List v210324)
 
 ---
 
