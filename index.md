@@ -64,4 +64,5 @@
 [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
 Favorite photos I've taken.
 
-[My Musical Life](https://d2rd.github.io/glenn-david/) Video clips in performance
+### My Musical Life - Video clips in performance
+[SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4)
