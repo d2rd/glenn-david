@@ -32,7 +32,7 @@
 
 [Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
 
-[sample_list](https://dwrd.github.io/glenn-david/assets/work_samples/sample_list)
+[work_sample.md](https://dwrd.github.io/glenn-david/assets/work_samples/work_sample.md)
 
 ---
 
