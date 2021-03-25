@@ -78,17 +78,18 @@
 ## Glenn-David's Gallery - Favorite photos I've taken.
 [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
 
-<!-- ![Headshot](./assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
+<!-- 
+![Headshot](./assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
 ![Headshot](./assets/videos/DD_Downtown.png "DD Downtown")
 ![Headshot](./assets/videos/Class_is_Over.jpg "Class is over!")
 ![Headshot](./assets/videos/Me At Babson Wall 2015 "Babson Wall"
 ![Headshot](./assets/videos/Crotin_on_Hudson_Dam.jpg "Crotin on Hudson Dam NY")
 ![Headshot](./assets/videos/Serenity_at_Yosemite.jpg "Serenity_at_Yosemite.jpg")
-![Headshot](./DD-Bizhead_234x234.jpg "Glenn-David Daniel") -->
+![Headshot](./DD-Bizhead_234x234.jpg "Glenn-David Daniel") 
+-->
 
 ---
 
 ### My Musical Life - Video clips in performance
-![Headshot](./assets/videos/Grovin_Hard.jpg "Groovin Hard")
 ![OnUpright](./assets/videos/Grovin_Hard.jpg "Groovin Hard")
-[SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4)
+![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4)
