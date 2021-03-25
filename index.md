@@ -30,9 +30,11 @@
 ## DETAILS
 [Teaching Flyer](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_TEACH_Flyer_v210319.pdf)
 
-[Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
+[Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
 
-[Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
+---
+
+[Business Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
 
 [Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT MANAGER v210101.docx)
 
@@ -79,17 +81,17 @@
 [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
 
 <!-- 
-![Headshot](./assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
-![Headshot](./assets/videos/DD_Downtown.png "DD Downtown")
-![Headshot](./assets/videos/Class_is_Over.jpg "Class is over!")
-![Headshot](./assets/videos/Me At Babson Wall 2015 "Babson Wall"
-![Headshot](./assets/videos/Crotin_on_Hudson_Dam.jpg "Crotin on Hudson Dam NY")
-![Headshot](./assets/videos/Serenity_at_Yosemite.jpg "Serenity_at_Yosemite.jpg")
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/DD_Downtown.png "DD Downtown")
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/Class_is_Over.jpg "Class is over!")
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/Me At Babson Wall 2015 "Babson Wall"
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/Crotin_on_Hudson_Dam.jpg "Crotin on Hudson Dam NY")
+![Headshot](https://d2rd.github.io/glenn-david/assets/videos/Serenity_at_Yosemite.jpg "Serenity_at_Yosemite.jpg")
 ![Headshot](./DD-Bizhead_234x234.jpg "Glenn-David Daniel") 
 -->
 
 ---
 
 ### My Musical Life - Video clips in performance
-![OnUpright](./assets/videos/Grovin_Hard.jpg "Groovin Hard")
-![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4)
+![OnUpright](https://d2rd.github.io/glenn-david/assets/videos/Groovin_Hard.jpg "Groovin Hard")
+![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4 "In Concert at SFBAAAM")
