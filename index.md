@@ -45,10 +45,18 @@
 ---
 
 ## WORK PORTFOLIO
-
 <!-- Links -->
+### Certifications
+[Google Ad Search Certification](https://d2rd.github.io/glenn-david/assets/Google Ad Search Certification Certificate.pdf)
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/)
+[Hubspot Inbound Marketing Certificate](https://d2rd.github.io/glenn-david/assets/GDDaniel_Inbound_Marketing_Certificate.pdf)
+
+## Lesson Plans and Syllabi
+[Sample Lesson Plan](https://d2rd.github.io/glenn-david/assets/Sample_Lesson_Plan_2014_Glenn-David_Daniel.pdf)
+
+[Lesson Segment](https://d2rd.github.io/glenn-david/assets/i2Biz_EDT 41_Recognizing Opportunities1.pdf)
+
+<!-- [Lecture Overviews](https://d2rd.github.io/glenn-david/) -->
 
 [Business Analysis](https://d2rd.github.io/glenn-david/)
 
