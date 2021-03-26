@@ -17,7 +17,7 @@
 *	Broad experience with the cloud and mobile computing, Real Estate and Telecommunications sectors.
 *	Considerable training in full stack web application design and development using React, JavaScript, NodeJS.
 *	Solid understanding with the practical application of Artificial Intelligence and Machine Learning in business operations.
-*	Effective at using R, Python, Tableau and SAS data analysis and visualization.
+*	Effective at using R, Python, Tableau and SAS for data analysis and visualization.
 
 ---
 
