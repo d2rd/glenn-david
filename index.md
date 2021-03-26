@@ -85,6 +85,8 @@
 ## Glenn-David's Gallery - Favorite photos I've taken.
 <!-- [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/) -->
 
+![OnUpright](https://d2rd.github.io/glenn-david/assets/images/Groovin_Hard.jpg "Groovin Hard")
+
 <!-- 
 ![Headshot](https://d2rd.github.io/glenn-david/assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
 ![Headshot](https://d2rd.github.io/glenn-david/assets/videos/DD_Downtown.png "DD Downtown")
@@ -98,7 +100,6 @@
 ---
 
 ## My Musical Life - Video clips in performance
-
-![OnUpright](https://d2rd.github.io/glenn-david/assets/videos/Groovin_Hard.jpg "Groovin Hard")
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4 "In Concert at SFBAAAM")
