@@ -80,7 +80,7 @@
 
 ## AFTER HOURS
 ## Glenn-David's Gallery - Favorite photos I've taken.
-[Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
+<!-- [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/) -->
 
 <!-- 
 ![Headshot](https://d2rd.github.io/glenn-david/assets/videos/DD Lecturing At UC.jpg "Lecturing at Cal")
@@ -94,7 +94,7 @@
 
 ---
 
-### My Musical Life - Video clips in performance
+## My Musical Life - Video clips in performance
 ![OnUpright](https://d2rd.github.io/glenn-david/assets/videos/Groovin_Hard.jpg "Groovin Hard")
 
 ![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4 "In Concert at SFBAAAM")
