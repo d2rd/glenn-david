@@ -28,6 +28,7 @@
 ---
 
 ## DETAILS
+
 [Teaching Flyer](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_TEACH_Flyer_v210319.pdf)
 
 [Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
@@ -49,6 +50,7 @@
 ---
 
 ## WORK PORTFOLIO
+
 <!-- Links -->
 ### Certifications
 [Google Ad Search Certification](https://d2rd.github.io/glenn-david/assets/Google Ad Search Certification Certificate.pdf)
@@ -79,6 +81,7 @@
 ---
 
 ## AFTER HOURS
+
 ## Glenn-David's Gallery - Favorite photos I've taken.
 <!-- [Glenn-David's Gallery](https://d2rd.github.io/glenn-david/) -->
 
@@ -95,6 +98,7 @@
 ---
 
 ## My Musical Life - Video clips in performance
+
 ![OnUpright](https://d2rd.github.io/glenn-david/assets/videos/Groovin_Hard.jpg "Groovin Hard")
 
 ![SFBAAAM Concert](https://d2rd.github.io/glenn-david/assets/videos/David_Solos_at_SFBAAAM_concert_2007.mp4 "In Concert at SFBAAAM")
