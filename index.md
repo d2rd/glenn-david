@@ -50,7 +50,7 @@
 ---
 
 ## CERTIFICATIONS
-[HubSpot Inbound Marketing](https://d2rd.github.io/glenn-david/Certificate_HubSpot_Inbound_Marketing.pdf)  
+[HubSpot Inbound Marketing](https://d2rd.github.io/glenn-david/Certificate_HubSpot_Inbound_Marketing.pdf)    
 
 [Google Ads Search](https://d2rd.github.io/glenn-david/Google_Ad_Search_Certification_Certificate.pdf)  
 
