@@ -59,32 +59,33 @@
 ## WORK PORTFOLIO
 
 <!-- Links -->
-## SAMPLE LESSONS AND SYLLABI  
+### SAMPLE LESSONS AND SYLLABI  
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/) 
+[i2Biz Class Activities](https://d2rd.github.io/glenn-david/i2Biz_EDT_02_Class_Activities.pdf) 
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_Program_Overview_2014.pdf)  
+[i2Biz Program Overview](https://d2rd.github.io/glenn-david/i2Biz_Program_Overview_2014.pdf)  
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_EDT-41_Recognizing_Opportunities1.pdf)  
+[i2Biz Topic Sample](https://d2rd.github.io/glenn-david/i2Biz_EDT-41_Recognizing_Opportunities1.pdf)  
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_EDT_02_Class_Activities.pdf)  
+[i2Biz Sample Lesson Plan](https://d2rd.github.io/glenn-david/i2Biz_Sample_Lesson_Plan_2014_Glenn-David_Daniel.pdf)  
 
 
 ---
-
+<!-->
 [Business Analysis](https://d2rd.github.io/glenn-david/)  
 
 [Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
+-->
 
 [Funding Strategies Analysis](https://d2rd.github.io/glenn-david/Paint-Pen_Scenarios_Entrepreneurial_Finance.pdf)
-
 
 [Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)  
 
 [Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
 
+<!--
 [Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")  
-
+-->
 ---
 
 <!--
