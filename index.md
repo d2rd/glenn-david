@@ -28,9 +28,9 @@
 ---
 
 ## DETAILS
-[Teaching Flyer](Glenn-David Daniel FACULTY Highlights _w-pics_v210319.pdf)  
+[Teaching Flyer](Glenn-David_Daniel_FACULTY_Highlights_w-pics_v210319.pdf)    
 
-[Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)  
+[Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume_Overview_TEACH_201228b.pdf)  
 
 
 <!---
@@ -39,25 +39,49 @@
 
 ---
 
-[Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)  
+[Business Technologist Overview](https://d2rd.github.io/glenn-david/Resume_Overview_TECH_201228.pdf)  
 
-[Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT MANAGER v210101.docx)  
+[Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT_MANAGER_v210101.docx)  
 
-[Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech DETAILED v210101.docx)  
+[Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech_DETAILED_v210101.docx)  
 
-[Technologies List](https://d2rd.github.io/glenn-david/)  
+[Technologies List](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_Technology_List_v210324.pdf)  
+
+---
+
+## CERTIFICATIONS
+[HubSpot Inbound Marketing](https://d2rd.github.io/glenn-david/Certificate_HubSpot_Inbound_Marketing.pdf)
+
+[Google Ads Search](https://d2rd.github.io/glenn-david/Google_Ad_Search_Certification_Certificate.pdf)
 
 ---
 
 ## WORK PORTFOLIO
 
 <!-- Links -->
+## SAMPLE LESSONS AND SYLLABI  
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/)  
+[Lecture Overviews](https://d2rd.github.io/glenn-david/) 
+
+[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_Program_Overview_2014.pdf)  
+
+[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_EDT-41_Recognizing_Opportunities1.pdf)  
+
+[Lecture Overviews](https://d2rd.github.io/glenn-david/i2Biz_EDT_02_Class_Activities.pdf)  
+
+
+---
 
 [Business Analysis](https://d2rd.github.io/glenn-david/)  
 
+[Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
+
+[Funding Strategies Analysis](https://d2rd.github.io/glenn-david/Paint-Pen_Scenarios_Entrepreneurial_Finance.pdf)
+
+
 [Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)  
+
+[Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
 
 [Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")  
 
