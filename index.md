@@ -71,6 +71,8 @@
 
 
 ---
+### WORK SAMPLES  
+
 <!--
 [Business Analysis](https://d2rd.github.io/glenn-david/)  
 
@@ -79,11 +81,11 @@
 
 [Funding Strategies Analysis](https://d2rd.github.io/glenn-david/Paint-Pen_Scenarios_Entrepreneurial_Finance.pdf)
 
-[Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)  
-
 [Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
 
 <!--
+[Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)  
+
 [Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")  
 -->
 ---
