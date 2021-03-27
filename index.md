@@ -28,17 +28,24 @@
 ---
 
 ## DETAILS
-[Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)
+[Teaching Flyer](Glenn-David Daniel FACULTY Highlights _w-pics_v210319.pdf)  
 
-[Curriculm Vitae](https://d2rd.github.io/glenn-david/)
+[Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume Overview TEACH 201228b.pdf)  
 
-[Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)
 
-[Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT MANAGER v210101.docx)
+<!---
+[Curriculm Vitae](https://d2rd.github.io/glenn-david/)  
+--->
 
-[Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech DETAILED v210101.docx)
+---
 
-[Technologies List](https://d2rd.github.io/glenn-david/)
+[Professional Technologist Overview](https://d2rd.github.io/glenn-david/Resume Overview TECH 201228.pdf)  
+
+[Product Manager Resume](https://d2rd.github.io/glenn-david/david_daniel_PRODUCT MANAGER v210101.docx)  
+
+[Complete Resume](https://d2rd.github.io/glenn-david/david_daniel_pm-tech DETAILED v210101.docx)  
+
+[Technologies List](https://d2rd.github.io/glenn-david/)  
 
 ---
 
@@ -46,20 +53,22 @@
 
 <!-- Links -->
 
-[Lecture Overviews](https://d2rd.github.io/glenn-david/)
+[Lecture Overviews](https://d2rd.github.io/glenn-david/)  
 
-[Business Analysis](https://d2rd.github.io/glenn-david/)
+[Business Analysis](https://d2rd.github.io/glenn-david/)  
 
-[Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)
+[Data Science Visualization and Analysis Samples](https://d2rd.github.io/glenn-david/)  
 
-[Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")
-
-
+[Sample Developer Projects](https://d2rd.github.io/glenn-david/" Work completed as an apprentice at the Lambda School for Computer Science and Learners Guild.")  
 
 ---
 
-## AFTER HOURS
-[Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)
-Favorite photos I've taken.
+<!--
 
-[My Musical Life](https://d2rd.github.io/glenn-david/) Video clips in performance
+## AFTER HOURS
+[Glenn-David's Gallery](https://d2rd.github.io/glenn-david/)  
+Favorite photos I've taken.  
+
+[My Musical Life](https://d2rd.github.io/glenn-david/)  
+Video clips in performance.  
+-->
