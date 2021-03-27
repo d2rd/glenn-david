@@ -71,7 +71,7 @@
 
 
 ---
-<!-->
+<!--
 [Business Analysis](https://d2rd.github.io/glenn-david/)  
 
 [Decision Analysis](https://d2rd.github.io/glenn-david/Glenn-David_Daniel_No_Good_Options_v200822.pdf)
