@@ -28,7 +28,7 @@
 ---
 
 ## DETAILS
-[Teaching Flyer](Glenn-David_Daniel_FACULTY_Highlights_w-pics_v210319.pdf)    
+[Teaching Flyer](Glenn-David_Daniel_FACULTY.pdf)    
 
 [Professional Teaching Overview](https://d2rd.github.io/glenn-david/Resume_Overview_TEACH_201228b.pdf)  
 
